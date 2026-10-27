@@ -1,0 +1,36 @@
+name: Profile card
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/card.mjs", ".github/workflows/card.yml"]
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node .github/scripts/card.mjs
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - name: Commit card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add card-light.svg card-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update profile card"
+            git push
+          fi
