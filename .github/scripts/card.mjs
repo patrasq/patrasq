@@ -287,8 +287,9 @@ function render(d, t) {
     const shown = all.slice(0, OPEN_SOURCE_SHOWN);
     const cellW = (W - P - X) / 2;
     shown.forEach((r, i) => {
-      const cx = X + (i % 2) * cellW;
-      const cy = y + 36 + Math.floor(i / 2) * 46;
+      const rows = Math.ceil(shown.length / 2);
+      const cx = X + Math.floor(i / rows) * cellW;
+      const cy = y + 36 + (i % rows) * 46;
       parts.push(`<clipPath id="av${i}"><rect x="${cx}" y="${cy - 12}" width="28" height="28" rx="6"/></clipPath>`);
       parts.push(`<image href="${r.avatar}" x="${cx}" y="${cy - 12}" width="28" height="28" clip-path="url(#av${i})"/>`);
       parts.push(`<rect x="${cx}" y="${cy - 12}" width="28" height="28" rx="6" fill="none" class="rule"/>`);
