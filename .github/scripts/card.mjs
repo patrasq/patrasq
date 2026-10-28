@@ -22,7 +22,7 @@ async function gql(query, variables) {
 }
 
 const LIST_TOPIC = /^(awesome(-.+)?|.+-list|lists?|.*directory|resources)$/;
-const LIST_DESCRIPTION = /\b(curated|directory|list of|collection of|collective list|collaborative list)\b/i;
+const LIST_DESCRIPTION = /\b(curated|directory|list of|collective list|collaborative list)\b/i;
 const isList = (r) =>
   !r.primaryLanguage ||
   r.repositoryTopics.nodes.some(({ topic }) => LIST_TOPIC.test(topic.name)) ||
