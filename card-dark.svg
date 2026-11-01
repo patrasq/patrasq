@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="701" viewBox="0 0 840 701" role="img" aria-labelledby="title">
-<title id="title">7,614 GitHub contributions in the last 12 months</title>
+<title id="title">7,432 GitHub contributions in the last 12 months</title>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; fill: #f0f6fc; font-variant-numeric: tabular-nums; }
   .big { font-size: 40px; font-weight: 600; letter-spacing: -0.5px; }
@@ -13,7 +13,7 @@
   .rule { stroke: #3d444d; stroke-width: 1; }
 </style>
 <rect x="0.5" y="0.5" width="839" height="700" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="28" y="66" class="big">7,614</text>
+<text x="28" y="66" class="big">7,432</text>
 <text x="28" y="92" class="label">contributions in the last 12 months  ·  on GitHub since 2015</text>
 <rect x="443" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
 <rect x="450" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
@@ -67,12 +67,12 @@
 <rect x="786" y="44.0" width="5" height="48.0" rx="1" fill="#3fb950" fill-opacity="1.00"/>
 <rect x="793" y="66.7" width="5" height="25.3" rx="1" fill="#3fb950" fill-opacity="0.69"/>
 <rect x="800" y="78.1" width="5" height="13.9" rx="1" fill="#3fb950" fill-opacity="0.54"/>
-<rect x="807" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.38"/>
+<rect x="807" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.39"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">5,856</text>
+<text x="178" y="158" class="stat">5,860</text>
 <text x="178" y="176" class="label">Commits</text>
-<text x="336.5" y="158" class="stat">1,557</text>
+<text x="336.5" y="158" class="stat">1,564</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
 <text x="495" y="158" class="stat">10</text>
 <text x="495" y="176" class="label">Code reviews</text>
@@ -80,7 +80,7 @@
 <text x="653.5" y="176" class="label">Issues opened</text>
 <text x="178" y="212" class="stat">65</text>
 <text x="178" y="230" class="label">Repos contributed to</text>
-<text x="336.5" y="212" class="stat">50<tspan class="unit"> days</tspan></text>
+<text x="336.5" y="212" class="stat">51<tspan class="unit"> days</tspan></text>
 <text x="336.5" y="230" class="label">Current streak</text>
 <text x="495" y="212" class="stat">54<tspan class="unit"> days</tspan></text>
 <text x="495" y="230" class="label">Longest streak</text>
@@ -88,7 +88,7 @@
 <text x="653.5" y="230" class="label">Best day</text>
 <line x1="28" x2="812" y1="254" y2="254" class="rule"/>
 <text x="28" y="292" class="section">All time</text>
-<text x="178" y="292" class="stat">1,587</text>
+<text x="178" y="292" class="stat">1,591</text>
 <text x="178" y="310" class="label">Merged PRs</text>
 <text x="336.5" y="292" class="stat">192</text>
 <text x="336.5" y="310" class="label">Issues opened</text>
