@@ -70,9 +70,9 @@
 <rect x="807" y="88.2" width="5" height="3.8" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">5,864</text>
+<text x="178" y="158" class="stat">5,862</text>
 <text x="178" y="176" class="label">Commits</text>
-<text x="336.5" y="158" class="stat">1,567</text>
+<text x="336.5" y="158" class="stat">1,566</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
 <text x="495" y="158" class="stat">10</text>
 <text x="495" y="176" class="label">Code reviews</text>
