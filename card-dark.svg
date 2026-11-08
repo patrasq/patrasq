@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="701" viewBox="0 0 840 701" role="img" aria-labelledby="title">
-<title id="title">8,402 GitHub contributions in the last 12 months</title>
+<title id="title">8,381 GitHub contributions in the last 12 months</title>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; fill: #f0f6fc; font-variant-numeric: tabular-nums; }
   .big { font-size: 40px; font-weight: 600; letter-spacing: -0.5px; }
@@ -13,7 +13,7 @@
   .rule { stroke: #3d444d; stroke-width: 1; }
 </style>
 <rect x="0.5" y="0.5" width="839" height="700" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="28" y="66" class="big">8,402</text>
+<text x="28" y="66" class="big">8,381</text>
 <text x="28" y="92" class="label">contributions in the last 12 months  ·  on GitHub since 2015</text>
 <rect x="443" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="450" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.39"/>
