@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="701" viewBox="0 0 840 701" role="img" aria-labelledby="title">
-<title id="title">9,720 GitHub contributions in the last 12 months</title>
+<title id="title">9,913 GitHub contributions in the last 12 months</title>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; fill: #1f2328; font-variant-numeric: tabular-nums; }
   .big { font-size: 40px; font-weight: 600; letter-spacing: -0.5px; }
@@ -13,18 +13,18 @@
   .rule { stroke: #d1d9e0; stroke-width: 1; }
 </style>
 <rect x="0.5" y="0.5" width="839" height="700" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="28" y="66" class="big">9,720</text>
+<text x="28" y="66" class="big">9,913</text>
 <text x="28" y="92" class="label">contributions in the last 12 months  ·  on GitHub since 2015</text>
 <rect x="443" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.35"/>
 <rect x="450" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
-<rect x="457" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.38"/>
-<rect x="464" y="88.2" width="5" height="3.8" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
-<rect x="471" y="88.0" width="5" height="4.0" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
-<rect x="478" y="84.2" width="5" height="7.8" rx="1" fill="#1a7f37" fill-opacity="0.46"/>
+<rect x="457" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
+<rect x="464" y="88.5" width="5" height="3.5" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
+<rect x="471" y="88.3" width="5" height="3.7" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
+<rect x="478" y="84.8" width="5" height="7.2" rx="1" fill="#1a7f37" fill-opacity="0.45"/>
 <rect x="485" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
-<rect x="492" y="87.9" width="5" height="4.1" rx="1" fill="#1a7f37" fill-opacity="0.41"/>
+<rect x="492" y="88.3" width="5" height="3.7" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
 <rect x="499" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.38"/>
-<rect x="506" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.39"/>
+<rect x="506" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.38"/>
 <rect x="513" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.39"/>
 <rect x="520" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.38"/>
 <rect x="527" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
@@ -35,48 +35,48 @@
 <rect x="562" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
 <rect x="569" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="576" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.35"/>
-<rect x="583" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
+<rect x="583" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.35"/>
 <rect x="590" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="597" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="604" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
 <rect x="611" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
-<rect x="618" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
-<rect x="625" y="87.0" width="5" height="5.0" rx="1" fill="#1a7f37" fill-opacity="0.42"/>
-<rect x="632" y="82.4" width="5" height="9.6" rx="1" fill="#1a7f37" fill-opacity="0.48"/>
-<rect x="639" y="86.3" width="5" height="5.7" rx="1" fill="#1a7f37" fill-opacity="0.43"/>
-<rect x="646" y="82.9" width="5" height="9.1" rx="1" fill="#1a7f37" fill-opacity="0.47"/>
-<rect x="653" y="86.9" width="5" height="5.1" rx="1" fill="#1a7f37" fill-opacity="0.42"/>
+<rect x="618" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
+<rect x="625" y="87.4" width="5" height="4.6" rx="1" fill="#1a7f37" fill-opacity="0.41"/>
+<rect x="632" y="83.2" width="5" height="8.8" rx="1" fill="#1a7f37" fill-opacity="0.47"/>
+<rect x="639" y="86.7" width="5" height="5.3" rx="1" fill="#1a7f37" fill-opacity="0.42"/>
+<rect x="646" y="83.6" width="5" height="8.4" rx="1" fill="#1a7f37" fill-opacity="0.46"/>
+<rect x="653" y="87.3" width="5" height="4.7" rx="1" fill="#1a7f37" fill-opacity="0.41"/>
 <rect x="660" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.38"/>
 <rect x="667" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="674" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="681" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
-<rect x="688" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
+<rect x="688" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="695" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="702" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
-<rect x="709" y="88.9" width="5" height="3.1" rx="1" fill="#1a7f37" fill-opacity="0.39"/>
+<rect x="709" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.39"/>
 <rect x="716" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="723" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.37"/>
 <rect x="730" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.35"/>
-<rect x="737" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
+<rect x="737" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.35"/>
 <rect x="744" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.36"/>
 <rect x="751" y="89.0" width="5" height="3.0" rx="1" fill="#1a7f37" fill-opacity="0.38"/>
-<rect x="758" y="85.1" width="5" height="6.9" rx="1" fill="#1a7f37" fill-opacity="0.44"/>
-<rect x="765" y="76.5" width="5" height="15.5" rx="1" fill="#1a7f37" fill-opacity="0.56"/>
-<rect x="772" y="78.9" width="5" height="13.1" rx="1" fill="#1a7f37" fill-opacity="0.53"/>
-<rect x="779" y="76.1" width="5" height="15.9" rx="1" fill="#1a7f37" fill-opacity="0.57"/>
-<rect x="786" y="83.6" width="5" height="8.4" rx="1" fill="#1a7f37" fill-opacity="0.46"/>
-<rect x="793" y="87.4" width="5" height="4.6" rx="1" fill="#1a7f37" fill-opacity="0.41"/>
-<rect x="800" y="88.5" width="5" height="3.5" rx="1" fill="#1a7f37" fill-opacity="0.40"/>
+<rect x="758" y="85.7" width="5" height="6.3" rx="1" fill="#1a7f37" fill-opacity="0.44"/>
+<rect x="765" y="77.8" width="5" height="14.2" rx="1" fill="#1a7f37" fill-opacity="0.54"/>
+<rect x="772" y="79.9" width="5" height="12.1" rx="1" fill="#1a7f37" fill-opacity="0.51"/>
+<rect x="779" y="77.4" width="5" height="14.6" rx="1" fill="#1a7f37" fill-opacity="0.55"/>
+<rect x="786" y="84.3" width="5" height="7.7" rx="1" fill="#1a7f37" fill-opacity="0.45"/>
+<rect x="793" y="87.8" width="5" height="4.2" rx="1" fill="#1a7f37" fill-opacity="0.41"/>
+<rect x="800" y="88.8" width="5" height="3.2" rx="1" fill="#1a7f37" fill-opacity="0.39"/>
 <rect x="807" y="44.0" width="5" height="48.0" rx="1" fill="#1a7f37" fill-opacity="1.00"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">6,811</text>
+<text x="178" y="158" class="stat">6,846</text>
 <text x="178" y="176" class="label">Commits</text>
-<text x="336.5" y="158" class="stat">1,966</text>
+<text x="336.5" y="158" class="stat">2,031</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
 <text x="495" y="158" class="stat">10</text>
 <text x="495" y="176" class="label">Code reviews</text>
-<text x="653.5" y="158" class="stat">734</text>
+<text x="653.5" y="158" class="stat">826</text>
 <text x="653.5" y="176" class="label">Issues opened</text>
 <text x="178" y="212" class="stat">78</text>
 <text x="178" y="230" class="label">Repos contributed to</text>
@@ -88,9 +88,9 @@
 <text x="653.5" y="230" class="label">Best day</text>
 <line x1="28" x2="812" y1="254" y2="254" class="rule"/>
 <text x="28" y="292" class="section">All time</text>
-<text x="178" y="292" class="stat">1,970</text>
+<text x="178" y="292" class="stat">2,006</text>
 <text x="178" y="310" class="label">Merged PRs</text>
-<text x="336.5" y="292" class="stat">921</text>
+<text x="336.5" y="292" class="stat">1,013</text>
 <text x="336.5" y="310" class="label">Issues opened</text>
 <text x="495" y="292" class="stat">4</text>
 <text x="495" y="310" class="label">Stars earned</text>
@@ -100,14 +100,14 @@
 <text x="28" y="368" class="section">Languages</text>
 <clipPath id="langs"><rect x="178" y="360" width="634" height="8" rx="4"/></clipPath>
 <g clip-path="url(#langs)"><rect x="178" y="360" width="634" height="8" fill="#eff2f5"/>
-<rect x="178.0" y="360" width="307.0" height="8" fill="#3178c6"/>
-<rect x="485.0" y="360" width="144.1" height="8" fill="#3572A5"/>
-<rect x="629.1" y="360" width="43.6" height="8" fill="#f1e05a"/>
-<rect x="672.7" y="360" width="33.4" height="8" fill="#e34c26"/>
-<rect x="706.0" y="360" width="27.6" height="8" fill="#4F5D95"/>
-<rect x="733.6" y="360" width="20.4" height="8" fill="#ff5a03"/>
+<rect x="178.0" y="360" width="306.9" height="8" fill="#3178c6"/>
+<rect x="484.9" y="360" width="144.2" height="8" fill="#3572A5"/>
+<rect x="629.0" y="360" width="43.7" height="8" fill="#f1e05a"/>
+<rect x="672.8" y="360" width="33.4" height="8" fill="#e34c26"/>
+<rect x="706.1" y="360" width="27.6" height="8" fill="#4F5D95"/>
+<rect x="733.7" y="360" width="20.4" height="8" fill="#ff5a03"/>
 <rect x="754.1" y="360" width="18.4" height="8" fill="#dea584"/>
-<rect x="772.4" y="360" width="11.8" height="8" fill="#fcb32c"/>
+<rect x="772.5" y="360" width="11.8" height="8" fill="#fcb32c"/>
 </g>
 <circle cx="182" cy="390" r="4" fill="#3178c6"/>
 <text x="192" y="394" class="lang">TypeScript<tspan dx="6" class="unit">48.4%</tspan></text>
