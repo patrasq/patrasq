@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="701" viewBox="0 0 840 701" role="img" aria-labelledby="title">
-<title id="title">11,260 GitHub contributions in the last 12 months</title>
+<title id="title">11,788 GitHub contributions in the last 12 months</title>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; fill: #f0f6fc; font-variant-numeric: tabular-nums; }
   .big { font-size: 40px; font-weight: 600; letter-spacing: -0.5px; }
@@ -13,21 +13,21 @@
   .rule { stroke: #3d444d; stroke-width: 1; }
 </style>
 <rect x="0.5" y="0.5" width="839" height="700" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="28" y="66" class="big">11,260</text>
+<text x="28" y="66" class="big">11,788</text>
 <text x="28" y="92" class="label">contributions in the last 12 months  ·  on GitHub since 2015</text>
 <rect x="443" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
 <rect x="450" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
-<rect x="457" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
+<rect x="457" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="464" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.38"/>
 <rect x="471" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.38"/>
-<rect x="478" y="87.4" width="5" height="4.6" rx="1" fill="#3fb950" fill-opacity="0.41"/>
+<rect x="478" y="88.0" width="5" height="4.0" rx="1" fill="#3fb950" fill-opacity="0.40"/>
 <rect x="485" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="492" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.38"/>
-<rect x="499" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
+<rect x="499" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="506" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
 <rect x="513" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
 <rect x="520" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
-<rect x="527" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
+<rect x="527" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
 <rect x="534" y="90.0" width="5" height="2.0" rx="1" fill="#151b23"/>
 <rect x="541" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="548" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
@@ -37,14 +37,14 @@
 <rect x="576" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
 <rect x="583" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
 <rect x="590" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
-<rect x="597" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
+<rect x="597" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
 <rect x="604" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="611" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="618" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="625" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.39"/>
-<rect x="632" y="86.4" width="5" height="5.6" rx="1" fill="#3fb950" fill-opacity="0.43"/>
-<rect x="639" y="88.6" width="5" height="3.4" rx="1" fill="#3fb950" fill-opacity="0.40"/>
-<rect x="646" y="86.6" width="5" height="5.4" rx="1" fill="#3fb950" fill-opacity="0.42"/>
+<rect x="632" y="87.1" width="5" height="4.9" rx="1" fill="#3fb950" fill-opacity="0.42"/>
+<rect x="639" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.39"/>
+<rect x="646" y="87.3" width="5" height="4.7" rx="1" fill="#3fb950" fill-opacity="0.41"/>
 <rect x="653" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.39"/>
 <rect x="660" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
 <rect x="667" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
@@ -60,23 +60,23 @@
 <rect x="737" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.35"/>
 <rect x="744" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.36"/>
 <rect x="751" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
-<rect x="758" y="88.0" width="5" height="4.0" rx="1" fill="#3fb950" fill-opacity="0.40"/>
-<rect x="765" y="82.9" width="5" height="9.1" rx="1" fill="#3fb950" fill-opacity="0.47"/>
-<rect x="772" y="84.3" width="5" height="7.7" rx="1" fill="#3fb950" fill-opacity="0.45"/>
-<rect x="779" y="82.6" width="5" height="9.4" rx="1" fill="#3fb950" fill-opacity="0.48"/>
-<rect x="786" y="87.1" width="5" height="4.9" rx="1" fill="#3fb950" fill-opacity="0.42"/>
-<rect x="793" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.39"/>
-<rect x="800" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.38"/>
+<rect x="758" y="88.5" width="5" height="3.5" rx="1" fill="#3fb950" fill-opacity="0.40"/>
+<rect x="765" y="84.0" width="5" height="8.0" rx="1" fill="#3fb950" fill-opacity="0.46"/>
+<rect x="772" y="85.2" width="5" height="6.8" rx="1" fill="#3fb950" fill-opacity="0.44"/>
+<rect x="779" y="83.8" width="5" height="8.2" rx="1" fill="#3fb950" fill-opacity="0.46"/>
+<rect x="786" y="87.7" width="5" height="4.3" rx="1" fill="#3fb950" fill-opacity="0.41"/>
+<rect x="793" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.38"/>
+<rect x="800" y="89.0" width="5" height="3.0" rx="1" fill="#3fb950" fill-opacity="0.37"/>
 <rect x="807" y="44.0" width="5" height="48.0" rx="1" fill="#3fb950" fill-opacity="1.00"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">7,847</text>
+<text x="178" y="158" class="stat">8,242</text>
 <text x="178" y="176" class="label">Commits</text>
-<text x="336.5" y="158" class="stat">2,189</text>
+<text x="336.5" y="158" class="stat">2,249</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
 <text x="495" y="158" class="stat">10</text>
 <text x="495" y="176" class="label">Code reviews</text>
-<text x="653.5" y="158" class="stat">1,009</text>
+<text x="653.5" y="158" class="stat">1,063</text>
 <text x="653.5" y="176" class="label">Issues opened</text>
 <text x="178" y="212" class="stat">78</text>
 <text x="178" y="230" class="label">Repos contributed to</text>
@@ -88,9 +88,9 @@
 <text x="653.5" y="230" class="label">Best day</text>
 <line x1="28" x2="812" y1="254" y2="254" class="rule"/>
 <text x="28" y="292" class="section">All time</text>
-<text x="178" y="292" class="stat">2,171</text>
+<text x="178" y="292" class="stat">2,233</text>
 <text x="178" y="310" class="label">Merged PRs</text>
-<text x="336.5" y="292" class="stat">1,196</text>
+<text x="336.5" y="292" class="stat">1,250</text>
 <text x="336.5" y="310" class="label">Issues opened</text>
 <text x="495" y="292" class="stat">4</text>
 <text x="495" y="310" class="label">Stars earned</text>
@@ -100,17 +100,17 @@
 <text x="28" y="368" class="section">Languages</text>
 <clipPath id="langs"><rect x="178" y="360" width="634" height="8" rx="4"/></clipPath>
 <g clip-path="url(#langs)"><rect x="178" y="360" width="634" height="8" fill="#151b23"/>
-<rect x="178.0" y="360" width="309.4" height="8" fill="#3178c6"/>
-<rect x="487.4" y="360" width="142.0" height="8" fill="#3572A5"/>
-<rect x="629.4" y="360" width="43.1" height="8" fill="#f1e05a"/>
-<rect x="672.5" y="360" width="32.9" height="8" fill="#e34c26"/>
-<rect x="705.4" y="360" width="27.2" height="8" fill="#4F5D95"/>
-<rect x="732.6" y="360" width="20.1" height="8" fill="#ff5a03"/>
-<rect x="752.7" y="360" width="18.1" height="8" fill="#dea584"/>
-<rect x="770.9" y="360" width="11.6" height="8" fill="#fcb32c"/>
+<rect x="178.0" y="360" width="310.4" height="8" fill="#3178c6"/>
+<rect x="488.4" y="360" width="142.0" height="8" fill="#3572A5"/>
+<rect x="630.4" y="360" width="43.1" height="8" fill="#f1e05a"/>
+<rect x="673.6" y="360" width="32.9" height="8" fill="#e34c26"/>
+<rect x="706.4" y="360" width="27.2" height="8" fill="#4F5D95"/>
+<rect x="733.6" y="360" width="20.1" height="8" fill="#ff5a03"/>
+<rect x="753.8" y="360" width="18.1" height="8" fill="#dea584"/>
+<rect x="771.9" y="360" width="11.6" height="8" fill="#fcb32c"/>
 </g>
 <circle cx="182" cy="390" r="4" fill="#3178c6"/>
-<text x="192" y="394" class="lang">TypeScript<tspan dx="6" class="unit">48.8%</tspan></text>
+<text x="192" y="394" class="lang">TypeScript<tspan dx="6" class="unit">49.0%</tspan></text>
 <circle cx="340.5" cy="390" r="4" fill="#3572A5"/>
 <text x="350.5" y="394" class="lang">Python<tspan dx="6" class="unit">22.4%</tspan></text>
 <circle cx="499" cy="390" r="4" fill="#f1e05a"/>
