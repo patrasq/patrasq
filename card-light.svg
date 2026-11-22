@@ -70,7 +70,7 @@
 <rect x="807" y="90.0" width="5" height="2.0" rx="1" fill="#eff2f5"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">10,271</text>
+<text x="178" y="158" class="stat">10,259</text>
 <text x="178" y="176" class="label">Commits</text>
 <text x="336.5" y="158" class="stat">2,704</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
