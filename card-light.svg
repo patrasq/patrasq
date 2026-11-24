@@ -70,9 +70,9 @@
 <rect x="807" y="90.0" width="5" height="2.0" rx="1" fill="#eff2f5"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">10,257</text>
+<text x="178" y="158" class="stat">10,254</text>
 <text x="178" y="176" class="label">Commits</text>
-<text x="336.5" y="158" class="stat">2,704</text>
+<text x="336.5" y="158" class="stat">2,703</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
 <text x="495" y="158" class="stat">9</text>
 <text x="495" y="176" class="label">Code reviews</text>
@@ -100,12 +100,12 @@
 <text x="28" y="368" class="section">Languages</text>
 <clipPath id="langs"><rect x="178" y="360" width="634" height="8" rx="4"/></clipPath>
 <g clip-path="url(#langs)"><rect x="178" y="360" width="634" height="8" fill="#eff2f5"/>
-<rect x="178.0" y="360" width="313.0" height="8" fill="#3178c6"/>
-<rect x="491.0" y="360" width="137.9" height="8" fill="#3572A5"/>
+<rect x="178.0" y="360" width="312.9" height="8" fill="#3178c6"/>
+<rect x="490.9" y="360" width="137.9" height="8" fill="#3572A5"/>
 <rect x="628.8" y="360" width="42.0" height="8" fill="#f1e05a"/>
 <rect x="670.8" y="360" width="33.0" height="8" fill="#e34c26"/>
 <rect x="703.8" y="360" width="26.5" height="8" fill="#4F5D95"/>
-<rect x="730.3" y="360" width="22.0" height="8" fill="#ff5a03"/>
+<rect x="730.2" y="360" width="22.0" height="8" fill="#ff5a03"/>
 <rect x="752.3" y="360" width="18.2" height="8" fill="#dea584"/>
 <rect x="770.5" y="360" width="11.3" height="8" fill="#fcb32c"/>
 </g>
