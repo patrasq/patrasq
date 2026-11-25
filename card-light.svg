@@ -70,7 +70,7 @@
 <rect x="807" y="90.0" width="5" height="2.0" rx="1" fill="#eff2f5"/>
 <line x1="28" x2="812" y1="120" y2="120" class="rule"/>
 <text x="28" y="158" class="section">Last 12 months</text>
-<text x="178" y="158" class="stat">10,254</text>
+<text x="178" y="158" class="stat">10,237</text>
 <text x="178" y="176" class="label">Commits</text>
 <text x="336.5" y="158" class="stat">2,703</text>
 <text x="336.5" y="176" class="label">Pull requests</text>
@@ -101,7 +101,7 @@
 <clipPath id="langs"><rect x="178" y="360" width="634" height="8" rx="4"/></clipPath>
 <g clip-path="url(#langs)"><rect x="178" y="360" width="634" height="8" fill="#eff2f5"/>
 <rect x="178.0" y="360" width="312.7" height="8" fill="#3178c6"/>
-<rect x="490.7" y="360" width="137.9" height="8" fill="#3572A5"/>
+<rect x="490.7" y="360" width="137.8" height="8" fill="#3572A5"/>
 <rect x="628.5" y="360" width="42.0" height="8" fill="#f1e05a"/>
 <rect x="670.5" y="360" width="33.0" height="8" fill="#e34c26"/>
 <rect x="703.5" y="360" width="26.5" height="8" fill="#4F5D95"/>
